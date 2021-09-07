@@ -1,6 +1,7 @@
 //import React from 'react'
 import ReactDOM from 'react-dom'
-import Course from './components/Course'
+//import Course from './components/Course'
+import Course from './services/personsService'
 
 
 const App = () => {
